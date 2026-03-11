@@ -2,17 +2,17 @@
 
 Repositório com exercícios da disciplina de Introdução à Ciência de Dados.
 
-## Conteúdo
+## Conteúdo ##
 
 ### Python
-Notebook com a resolução da lista de exercícios utilizando Python.
+Lista de exercícios resolvida utilizando Python em Jupyter Notebook.
 
 ### Rust
-Implementação adicional dos mesmos exercícios em Rust para prática de lógica de programação.
+Implementação adicional da lista em Rust para prática de lógica de programação.
 
 ## Tecnologias utilizadas
 
 - Python
 - Jupyter Notebook
 - Rust
-- Git/GitHub
+- Git / GitHub
